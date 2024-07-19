@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Jurassic World with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is the park's manager?",
+      "answers": ["Claire", "Owen", "Henry"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who trains raptors?",
+      "answers": ["Owen", "Claire", "Wu"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is the hybrid dinosaur?",
+      "answers": ["Indo", "T-Rex", "Blue"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the CEO of Masrani?",
+      "answers": ["Simon", "Owen", "Henry"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the dinosaur park called?",
+      "answers": ["World", "Land", "Park"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the geneticist?",
+      "answers": ["Henry", "Owen", "Claire"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Blue?",
+      "answers": ["Raptor", "T-Rex", "Indo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What island is the park on?",
+      "answers": ["Nublar", "Sorna", "Baru"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Claire's nephew?",
+      "answers": ["Zach", "Gray", "Owen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What company owns Jurassic World?",
+      "answers": ["Masrani", "InGen", "Biosyn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who created the Indominus Rex?",
+      "answers": ["Henry", "Simon", "Owen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Owen's role?",
+      "answers": ["Trainer", "CEO", "Guard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What are the main attractions?",
+      "answers": ["Dinos", "Rides", "Shows"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the flying dinosaur?",
+      "answers": ["Ptero", "Rex", "Raptor"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the sea dinosaur?",
+      "answers": ["Mosas", "Rex", "Ptero"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the antagonist?",
+      "answers": ["Indo", "Blue", "Rex"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who leads security?",
+      "answers": ["Hoskins", "Owen", "Henry"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Owen's raptor friend?",
+      "answers": ["Blue", "Rex", "Indo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does the Indominus Rex escape from?",
+      "answers": ["Pen", "Cage", "Lab"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the final battle?",
+      "answers": ["Rex", "Ptero", "Mosas"],
       "correctAnswerIndex": 0
     }
   ]
